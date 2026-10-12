@@ -1,0 +1,28 @@
+/* css/fonts.css */
+
+/* Define Estedad Font */
+/* You would typically download the font files (e.g., .woff2) and place them in a 'fonts' directory */
+/* For demonstration, I'll use a placeholder. In a real project, replace with actual font files and paths. */
+/* Example: */
+/*
+@font-face {
+    font-family: 'Estedad';
+    src: url('../fonts/Estedad-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Estedad';
+    src: url('../fonts/Estedad-Bold.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
+*/
+
+/* Using a public CDN for Estedad for convenience during development */
+/* Note: For a production site, consider hosting locally or using a more robust CDN */
+@import url('https://cdn.jsdelivr.net/gh/rastikerdar/Estedad@v1.0.0/dist/Estedad/font.css');
+
+/* Fallback for now if CDN is not desired or blocked, or for local hosting */
+/* For the purpose of this task, I will use a generic sans-serif fallback if the CDN import fails */
+/* In a real scenario, you'd place the font files in e:/my project/css/fonts/ and reference them. */

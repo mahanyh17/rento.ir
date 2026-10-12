@@ -1,0 +1,45 @@
+:root { /* Light Theme Defaults */
+    --primary-bg: #f8f8f8;
+    --secondary-bg: #ffffff;
+    --text-color: #333333;
+    --text-color-light: #555555;
+    --heading-color: #000080; /* Navy */
+    --header-bg: #f8f8f8;
+    --nav-link-color: #333333;
+    --footer-bg: #000080; /* Navy */
+    --footer-text-color: #ffffff;
+    --accent-color: #8B0000; /* Burgundy */
+    --navy-color: #000080;
+    --gray-color: #808080;
+    --gray-light: #f0f0f0;
+    --border-color: #e0e0e0;
+    --button-bg: #f0f0f0;
+    --button-text-color: #333333;
+    --button-border: #cccccc;
+    --button-hover-bg: #e0e0e0;
+    --button-hover-text-color: #000000;
+    --button-hover-bg-accent: #6d0000; /* Darker burgundy for hover */
+}
+
+body.dark-theme {
+    --primary-bg: #1a1a2e;
+    --secondary-bg: #2e3a4e;
+    --text-color: #e0e0e0;
+    --text-color-light: #cccccc;
+    --heading-color: #ADD8E6; /* Lighter navy */
+    --header-bg: #1a1a2e;
+    --nav-link-color: #e0e0e0;
+    --footer-bg: #0a0a1e; /* Darker navy */
+    --footer-text-color: #cccccc;
+    --accent-color: #B22222; /* Adjusted burgundy */
+    --navy-color: #ADD8E6;
+    --gray-color: #A9A9A9;
+    --gray-light: #3e4a5e;
+    --border-color: #444444;
+    --button-bg: #3e4a5e;
+    --button-text-color: #e0e0e0;
+    --button-border: #555555;
+    --button-hover-bg: #4e5a6e;
+    --button-hover-text-color: #ffffff;
+    --button-hover-bg-accent: #8b0000; /* Darker burgundy for hover in dark theme */
+}
