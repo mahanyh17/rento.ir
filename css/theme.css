@@ -8,6 +8,14 @@
     --nav-link-color: #333333;
     --footer-bg: #000080; /* Navy */
     --footer-text-color: #ffffff;
+    --footer-nav-bg: #f0f0f0;
+    --footer-nav-link-color: #000080;
+    --footer-nav-hover-bg: #000080;
+    --footer-nav-hover-text-color: #ffffff;
+    --footer-nav-focus-color: #000080;
+    --footer-nav-active-color: #8B0000;
+    --footer-nav-active-hover-bg: #6d0000;
+    --footer-nav-active-hover-text-color: #ffffff;
     --accent-color: #8B0000; /* Burgundy */
     --navy-color: #000080;
     --gray-color: #808080;
@@ -31,6 +39,14 @@ body.dark-theme {
     --nav-link-color: #e0e0e0;
     --footer-bg: #0a0a1e; /* Darker navy */
     --footer-text-color: #cccccc;
+    --footer-nav-bg: #e8e8ee;
+    --footer-nav-link-color: #000080;
+    --footer-nav-hover-bg: #000080;
+    --footer-nav-hover-text-color: #ffffff;
+    --footer-nav-focus-color: #000080;
+    --footer-nav-active-color: #8B0000;
+    --footer-nav-active-hover-bg: #6d0000;
+    --footer-nav-active-hover-text-color: #ffffff;
     --accent-color: #B22222; /* Adjusted burgundy */
     --navy-color: #ADD8E6;
     --gray-color: #A9A9A9;
